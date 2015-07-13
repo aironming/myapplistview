@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/airon/AndroidStudioProjects/github/httpasync/MyApplicationClistview/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="generals">
+        <item>白起</item>
+        <item>曹操</item>
+        <item>成吉思汗</item>
+        <item>韩信</item>
+        <item>李世民</item>
+        <item>努尔哈赤</item>
+        <item>孙膑</item>
+        <item>孙武</item>
+        <item>朱元璋</item>
+        <item>岳飞</item>
+    </string-array>
+    <!-- From: file:/home/airon/AndroidStudioProjects/github/httpasync/MyApplicationClistview/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/airon/AndroidStudioProjects/github/httpasync/MyApplicationClistview/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">My ApplicationClistview</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/home/airon/AndroidStudioProjects/github/httpasync/MyApplicationClistview/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
